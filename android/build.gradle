@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.plugin.flutter_sim_country_code"
+    namespace "com.example.flutter_sim_country_code"
     compileSdkVersion 30
 
     defaultConfig {
